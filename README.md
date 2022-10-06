@@ -18,4 +18,4 @@ El cliente requiere una pagina web con un formulario para demandas que al termin
 ![Image text](https://github.com/Miller1999/Abogabot/blob/main/2.-persona.jpg)
 
 ### 3.Publico Objetivo
-![Image text](https://github.com/Miller1999/Abogabot/blob/main/2.-persona.jpg)
+![Image text](https://github.com/Miller1999/Abogabot/blob/main/Publico.jpg)
