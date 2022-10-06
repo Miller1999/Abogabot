@@ -15,3 +15,4 @@ El cliente requiere una pagina web con un formulario para demandas que al termin
 ![Image text](https://github.com/Miller1999/Abogabot/blob/main/Diagramadeflujo.jpg)
 
 ### 2.Buyer Persona
+![Image text](https://github.com/Miller1999/Abogabot/blob/main/2.-persona.jpg)
