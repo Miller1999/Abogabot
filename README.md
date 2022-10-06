@@ -12,4 +12,4 @@ Queremos automatizar las demandas nuevas y almacenar las que ya tenemos. Para es
 El cliente requiere una pagina web con un formulario para demandas que al terminar de diligenciarlo lo lleve al proceso de pago y a la creación de una cuenta para que sus clientes puedan seguir su caso. Para el administrador del sitio debe notificar cada pago nuevo y mostrar un resumen de ingresos, además debe notificar de cada nueva demanda y crear un documento en Word con la demanda, debe ser capaz de actualizar y comentar cada paso del proceso jurídico. También debe notificar vía correo electrónico al demandante cada vez que se actualice su caso. La pagina debe verse de manera óptima en dispositivos móviles y sus colores deben concordar con la marca, estos colores son azul marino y blanco, pero no son los únicos colores que se pueden usar.
 
 Diagrama de trabajo
-https://raw.githubusercontent.com/Miller1999/Abogabot/main/assets/Diagramadeflujo.jpg
+![Image text](https://github.com/Miller1999/Abogabot/blob/main/Abogabot/raw/main/Diagramadeflujo.jpg)
