@@ -22,14 +22,30 @@ El cliente requiere una pagina web con un formulario para demandas que al termin
 
 ### 4. Wireframe (Versión computador)
 #### 1. Formulario Demanda
-![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Formulariodemanda.jpg)
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-PC/Formulariodemanda.jpg)
 #### 2. Pago
-![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Pago.jpg)
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-PC/Pago.jpg)
 #### 3. Nueva cuenta
-![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Nuevacuenta.jpg)
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-PC/Nuevacuenta.jpg)
 #### 4. Inicio de sesión
-![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Iniciarsesion.jpg)
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-PC/Iniciarsesion.jpg)
 #### 5. Dashboard
-![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Dashboard.jpg)
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-PC/Dashboard.jpg)
 #### 6. Dashboard - Admininstrador
-![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Admin.jpg)
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-PC/Admin.jpg)
+
+### 4. Wireframe (Versión Celular)
+#### 1. Formulario Demanda
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-Cel/Formulariodemanda.jpg)
+#### 2. Pago
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-Cel/Pago.jpg)
+#### 3. Nueva cuenta
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-Cel/Nuevacuenta.jpg)
+#### 4. Inicio de sesión
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-Cel/Iniciarsesion.jpg)
+#### 5. Dashboard
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-Cel/Dashboard.jpg)
+#### 6. Dashboard - Admininstrador
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe-Cel/Admin.jpg)
+
+
