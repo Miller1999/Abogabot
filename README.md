@@ -19,3 +19,17 @@ El cliente requiere una pagina web con un formulario para demandas que al termin
 
 ### 3.Publico Objetivo
 ![Image text](https://github.com/Miller1999/Abogabot/blob/main/Publico.jpg)
+
+### 4.Wireframe (Versión computador)
+#### 1. Formulario Demanda
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Formulariodemanda.jpg)
+#### 2. Pago
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Pago.jpg)
+#### 3. Nueva cuenta
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Nuevacuenta.jpg)
+#### 4. Inicio de sesión
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Iniciarsesion.jpg)
+#### 5. Dashboard
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Dashboard.jpg)
+#### 6. Dashboard - Admininstrador
+![Image text](https://github.com/Miller1999/Abogabot/blob/Wireframe/Admin.jpg)
